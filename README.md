@@ -2,7 +2,7 @@
 🚀 **MSDB** – a feature-rich movie database web application that allows users to search and explore movie details seamlessly! Developed using **React, JavaScript, HTML, CSS**, and **Axios**, this project connects with the **OMDb API** to dynamically fetch and display movie information for an engaging user experience.
 
 🌐 **Live Demo**
-Check out the live version of MSDB here: [MSDB Live](https://msdb-app.netlify.app/)
+Check out the live version of MSDB here: [MSDB Live](https://sonam-msdb.netlify.app/)
 
 # Features
 ✨ **Dynamic Data Fetching**: Connects to the OMDb API to fetch and display real-time movie information.
